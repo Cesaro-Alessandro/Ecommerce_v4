@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color: #dddddd;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+td {
+    color: #333333;
+}
+
+th {
+    background-color: #333333;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+}
